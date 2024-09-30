@@ -23,8 +23,8 @@ This project is developed using Python 3.8+ and utilizes the following libraries
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Dtn2901/Pokemon_Weakness_Explorer_App.git
-cd Pokemon_Weakness_Explorer_App
+git clone https://github.com/Dtn2901/Pokemon-App.git
+cd Pokemon_App
 ```
 
 ### 2. **Set Up a Virtual Environment**
